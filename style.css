@@ -1,0 +1,1383 @@
+body{
+    margin: 0;
+}
+
+.conteiner-great-app{
+    background-image: url(images/great-app.png);
+    background-size: cover;
+}
+
+.flex-envelope-great-app{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+
+.envelope-great-app{
+    width: 15px;
+    height: 13.5px;
+    margin-top: 40.25px;
+    
+    
+}
+
+.info-great-app{
+    width: 147px;
+    height: 24px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding-left: 19.5px;
+    margin-top: 35px;
+}
+
+.phone-fill-great-app{
+    background-image: url(images/Icons-phone-fill.png);
+    width: 13.5px;
+    height: 13.5px;
+    margin-top: 40.25px;
+    margin-left: 49.25px;
+}
+
+.number-great-app{
+    width: 109px;
+    height: 24px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-top: 35px;
+    margin-left: 20.25px;
+}
+
+
+.facebook-fill-great-app{
+    width: 7.88px;
+    height: 15px;
+    margin-top: 39.5px;
+    margin-left: 632.25px;
+}
+
+.instagram-fill-great-app{
+    width: 15px;
+    height: 15px;
+    margin-top: 39.5px;
+    margin-left: 36.37px;
+}
+
+.twitter-fill-great-app{
+    width: 15.29px;
+    height: 12.43px;
+    margin-top: 40.77px;
+    margin-left: 32.83px;
+}
+
+.youtube-fill-great-app{
+    width: 15px;
+    height: 12px;
+    margin-top: 41px;
+    margin-left: 32.88px;
+}
+
+.home-great-app{
+   
+    width: 1170px;
+    height: 60px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+.text-home{
+    width: 65px;
+    height: 26px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 130%;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: #5956E9;
+    padding-top: 17px;
+    padding-left: 52px;
+
+}
+
+.text-about{
+    width: 71px;
+    height: 30px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #232233;
+    padding-top: 17px;
+    padding-left: 38px;
+}
+
+.text-features{
+    width: 103px;
+    height: 30px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #232233;
+    padding-top: 17px;
+    padding-left: 40px;
+}
+
+
+
+.flex-home-great-app{
+    display: flex;
+    flex-wrap: nowrap;
+    
+}
+
+
+.appolly-box-logo{
+    position: relative;
+    
+}
+
+.appolly-box-great-app{
+    position: absolute;
+    width: 200px;
+    height: 90px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-left: 116px;
+    margin-top: -15px;
+}
+
+.appolly-logo-great-app{
+    width: 167px;
+    height: 28px;
+    position: absolute;
+    padding-left: 132px;
+    padding-top: 17px;
+    
+}
+
+.text-screenshot{
+    width: 138px;
+    height: 30px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #232233;
+    padding-left: 359px;
+    padding-top: 17px;
+}
+
+.text-blog{
+    width: 58px;
+    height: 30px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #232233;
+    padding-top: 17px;
+    padding-left: 40px;
+}
+
+
+
+.cover-download{
+    width: 158px;
+    height: 50px;
+    background: #5956E9;
+    border-radius: 5px;
+    margin-left: 43px;
+    margin-top: 5px;
+    
+    
+}
+
+.text-download{
+    width: 127px;
+    height: 30px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: auto;
+    padding-top: 12px;
+}
+
+.flex-conteiner-great-app{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.box-conteiner-blue-white{
+    position: relative;
+}
+
+.box-blue-great-app{
+    position: absolute;
+    width: 570px;
+    height: 535px;
+    border: 18px solid #7572FF;
+    margin-top: 187px;   
+    }
+
+    .box-white-great-app{
+    position: absolute;
+    width: 570px;
+    height: 432px;
+    background: #FFFFFF;
+    position: relative;
+    margin-top: 238px;
+    margin-left: -50px;
+
+    }
+
+    .H1-great-app{
+    width: 517px;
+    height: 126px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48.83px;
+    line-height: 63px;
+    text-transform: uppercase;
+    color: #5956E9;
+    padding-top: 40px;
+    margin-left: 30px;
+    }
+
+    .box-text-great-app{
+    width: 487px;
+    height: 66px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #6C6C72;
+    padding-top: 18px;
+    margin-left: 30px;
+
+    }
+
+    .box-white-download{
+    width: 289px;
+    height: 38px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 38px;
+    text-transform: uppercase;
+    color: #232233;
+    padding-top: 52px;
+    margin-left: 30px;
+    }
+
+    .google-play-great-app{
+        margin-left: 30px;
+        padding-top: 5px;
+    }
+
+    .app-store-great-app{
+        padding-top: 6px;
+        padding-left: 14px;
+    }
+
+    .phone-great-app{
+        margin-bottom: 83px;
+        margin-top: 82px;
+        padding-left: 174px;
+        
+        
+    }
+
+    .flex-great-app{
+        justify-content: center;
+    }
+
+    .conteiner-about-our{
+        background: #F5F5F5;
+    }
+
+    .H1-about-our{
+        width: 265px;
+        height: 48px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 31.25px;
+        line-height: 47px;
+        text-transform: uppercase;
+        color: #232233;
+        padding-top: 120px;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+
+    .text-about-our{
+        width: 601px;
+        height: 70px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        color: #6C6C72;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 18px;
+
+    }
+
+    .flex-about-our{
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        padding-top: 40px;
+    }
+
+    .conteiner-phone-about-our{
+        position: relative;
+        margin-top: 60px;
+        width: 386px;
+        margin-top: 60px;
+    }
+
+    .phones-about-our{
+        width: 386px;
+        height: 526px;
+        position: absolute;
+        
+    }
+
+    .phone-about-our-bottom{
+        margin-top: 477px;
+        margin-left: 74px;
+        width: 212px;
+        height: 71px;
+        
+    }
+
+    .cover-creative-design{
+        width: 570px;
+        height: 160px;
+        background: #FFFFFF;
+        box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+        margin-left: 188px;
+        margin-top: 60px;
+    }
+
+    .cover-easy-to-use,
+    .cover-best-user-experince{
+        width: 570px;
+        height: 160px;
+        background: #FFFFFF;
+        box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+        margin-left: 188px;
+        margin-top: 40px;
+    }
+
+    .cover-best-user-experince{
+        margin-bottom: 80px;
+    }
+
+    .accept-img{
+        background-image: url(.//images/accept.png);
+        width: 20px;
+        height: 20px;
+        margin-top: 32px;
+        margin-left: 20px;
+    }
+
+    .H1-creative-design{
+        width: 184px;
+        height: 30px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 30px;
+        text-transform: uppercase;
+        color: #232233;
+        padding-top: 30px;
+    }
+
+    .text-creative-design{
+        width: 491px;
+        height: 67px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #6C6C72;
+        padding-top: 12px;
+        
+    }
+
+    .flex-creative-design{
+        display: flex;
+        flex-wrap: nowrap;
+    }
+
+    .conteiner-creative-design{
+        padding-left: 19px;
+    }
+    
+    .H1-easy-to-use{
+        width: 134px;
+        height: 30px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 30px;
+        text-transform: uppercase;
+        color: #232233;
+        padding-top: 30px;
+
+    }
+
+    .H1-best-user-experince{
+        width: 231px;
+        height: 30px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 30px;
+        text-transform: uppercase;
+        color: #232233;
+        padding-top: 30px;
+
+    }
+
+    .section-app-features{
+        background-image: url(images/section-app-features.png);
+        background-size: cover;
+    }
+
+    .H1-app-features{
+        width: 234px;
+        height: 48px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 31.25px;
+        line-height: 47px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 120px;
+
+    }
+
+    .text-H1-app-features{
+        width: 601px;
+        height: 70px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 18px;
+
+    }
+
+    .comment-app-features{
+        background-image: url(./images/comment-app-features.png);
+        width: 46.88px;
+        height: 43.13px;
+        margin-top: 63.37px;
+        margin-left: auto;
+        margin-right: auto;
+          }
+
+          .app-features-full-free-chat{
+            width: 214px;
+            height: 38px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 25px;
+            line-height: 38px;
+            text-transform: uppercase;
+            color: #FFFFFF;
+            margin-left: auto;
+            margin-right: auto;
+            padding-top: 25.5px;
+          }
+
+          .text-app-features-full-free-chat{
+            width: 297px;
+            height: 43px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: center;
+            color: #FFFFFF;
+            margin-left: auto;
+            margin-right: auto;
+            padding-top: 18px;
+          }
+
+         
+          .box-unlimiter-features{
+            background-image: url(./images/box-unlimiter-features.png);
+            width: 50px;
+            height: 50px;
+          }
+
+         
+          .h1-unlimiter-features{
+            width: 279px;
+            height: 38px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 25px;
+            line-height: 38px;
+            text-transform: uppercase;
+            color: #FFFFFF;
+            padding-top: 23.56px;
+          }
+
+          .text-unlimiter-features{
+            width: 297px;
+            height: 43px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #FFFFFF;
+            padding-top: 18px;
+            text-align: right;
+
+          }
+
+          .img-awsome-ui-design{
+            background-image: url(./images/img-awsome-ui-design.png);
+            width: 50px;
+            height: 50px;
+            margin-top: 347px;
+          }
+
+          .h1-awsome-ui-design{
+            width: 257px;
+            height: 38px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 25px;
+            line-height: 38px;
+            text-transform: uppercase;
+            color: #FFFFFF;
+            padding-top: 22px;
+           }
+
+           .text-awsome-ui-design{
+            width: 297px;
+            height: 43px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: right;
+            color: #FFFFFF;
+            padding-top: 18px;
+           }
+
+           .img-app-features-phone{
+            background-image: url(./images/img-App-features-phone.png);
+            filter: drop-shadow(40px 40px 100px rgba(24, 48, 63, 0.5));
+            border-radius: 40px;
+            width: 100%;
+            height: 100%;
+            
+           }
+
+           .conteiner-img-app-features-phone{
+            width: 375px;
+            height: 812px;
+           }
+
+           .flex-app-features{
+             display: flex;
+             justify-content: center;
+             flex-wrap: wrap;
+             gap: 60px;
+             margin-top: 60px;
+           }
+
+           .flex-unlimiter-features{
+            display: flex;
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap-reverse;
+           }
+
+           .img-androind-version{
+            background-image: url(./images/App.png);
+            width: 50px;
+            height: 50px;
+           }
+
+           .h1-androind-version{
+            width: 346px;
+            height: 38px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 25px;
+            line-height: 38px;
+            display: flex;
+            align-items: flex-end;
+            text-align: center;
+            text-transform: uppercase;
+            color: #FFFFFF;
+            padding-top: 22px;
+           }
+
+           .text-androind-version{
+            width: 297px;
+            height: 43px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #FFFFFF;
+            padding-top: 18px;
+           }
+
+           .img-retina-ready-greaphics{
+            background-image: url(./images/img-retina-ready-greaphics.png);
+            width: 56px;
+            height: 56px;
+            margin-top: 342px;
+           }
+
+           .h1-retina-ready-greaphics{
+            width: 342px;
+            height: 38px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 25px;
+            line-height: 38px;
+            display: flex;
+            align-items: flex-end;
+            text-align: center;
+            text-transform: uppercase;
+            color: #FFFFFF;
+            padding-top: 22px;
+           }
+
+           .text-retina-ready-greaphics{
+            width: 297px;
+            height: 43px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #FFFFFF;
+            padding-top: 18px;
+
+           }
+
+           .img-male-telemarketer{
+            background-image: url(./images/male-telemarketer.png);
+            width: 50px;
+            height: 50px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 60px;
+           }
+
+           .h1-support-by-real-pepole{
+            width: 319px;
+            height: 30px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 20px;
+            line-height: 30px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 30px;
+            text-transform: uppercase;
+            color: #FFFFFF;
+
+           }
+
+           .text-support-by-real-pepole{
+            width: 297px;
+            height: 43px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: center;
+            color: #FFFFFF;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 18px;
+            padding-bottom: 120px;
+           }
+
+           .sectoin-checkout-our{
+            background: #F5F5F5
+           }
+
+           .h1-checkout-our{
+            width: 625px;
+            height: 48px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 31.25px;
+            line-height: 47px;
+            text-transform: uppercase;
+            color: #232233;
+            margin-left: auto;
+            margin-right: auto;
+            padding-top: 120px;
+           }
+
+           .text-checkout-our{
+            width: 601px;
+            height: 70px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: center;
+            color: #6C6C72;
+            margin-left: auto;
+            margin-right: auto;
+            padding-top: 23px;
+           }
+
+           .flex-checkout-our{
+            display: flex;
+            flex-wrap: nowrap;
+            margin-left: auto;
+            margin-right: auto;
+            height: 622px;
+            justify-content: center;
+           }
+
+           .circle-left-checkout-our,
+           .circle-right-checkout-our{
+            width: 84px;
+            height: 84px;
+            padding-top: 347px;
+           }
+
+           .circle-left-checkout-our,
+           .img-phones-checkout-our{
+            padding-right: 30px;
+           }
+
+           .img-phones-checkout-our{
+            padding-top: 60px;
+           }
+
+           .slider-checkout-our{
+            width: 154px;
+            height: 20px;
+            padding-top: 40px;
+            margin-left: auto;
+            margin-right: auto;
+           }
+
+           .flex-download-checkout-our{
+            display: flex;
+            flex-wrap: nowrap;
+            justify-content: center;
+           }
+
+           .section-download-checkout-our{
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: column;
+            padding-top: 137px;
+            padding-right: 80px;
+            padding-bottom: 193px;
+           }
+
+           .h1-download-checkout-our{
+            width: 364px;
+            height: 48px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 31.25px;
+            line-height: 47px;
+            text-transform: uppercase;
+            color: #232233;
+            padding-top: 1px;
+            
+           }
+
+           .text-download-checkout-our{
+            width: 570px;
+            height: 87px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #6C6C72;
+           
+           }
+
+           .download-store-checkout-our{
+            width: 325px;
+            height: 47px;
+            padding-top: 40px;
+            
+           }
+
+           .download-like-rating-checkout-our{
+            padding-top: 59px;
+            width: 570px;
+            height: 176px;
+            margin-left: -10px;
+           }
+
+           .phones-download-checkout-our{
+            padding-top: 122px;
+            width: 516px;
+            height: 506px;
+            
+           }
+
+
+           .section-how-to-use-big{
+            background: #F5F5F5;
+
+           }
+
+
+           .section-how-to-use{
+            background: url(./images/section-how-to-use.png);
+            height: 477px;
+            position: relative;
+           }
+
+           .h1-how-to-use{
+            width: 547px;
+            height: 48px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 31.25px;
+            line-height: 47px;
+            text-align: center;
+            text-transform: uppercase;
+            color: #FFFFFF;
+            padding-top: 120px;
+           
+
+           }
+
+           .text-how-to-use{
+            width: 601px;
+            height: 70px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: center;
+            color: #FFFFFF;
+            padding-top: 23px;
+    
+
+           }
+
+           .h1-our-reative-team{
+            width: 318px;
+            height: 48px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 31.25px;
+            line-height: 47px;
+            text-transform: uppercase;
+            color: #232233;
+
+           }
+           
+           .text-how-to-use,
+           .h1-our-reative-team,
+           .h1-how-to-use,
+           .text-our-reative-team{
+            margin-left: auto;
+            margin-right: auto;
+           }
+
+           .conteiner-video-text-how-to-use{
+            margin-left: auto;
+            margin-right: auto;
+            width: 770px;
+            height: 319px;
+            object-fit: none;
+           }
+
+           .video-text-how-to-use{
+            object-fit: none;
+            max-width: 770px;
+            height: auto;
+            position: relative;
+            margin-top: -163px;
+           }
+
+          
+
+           .text-our-reative-team,
+           .text-our-recent-blog{
+            width: 601px;
+            height: 70px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: center;
+            color: #6C6C72;
+            padding-top: 23px;
+           }
+
+           .flex-how-to-use{
+            display: flex;
+            flex-wrap: nowrap;
+            justify-content: center;
+            padding-top: 60px;
+            gap: 30px;
+            padding-bottom: 120px;
+           }
+
+           .section-our-happy-customers{
+            background-image: url(./images/section-our-happy-customers.png);
+            background-size: cover;
+           }
+
+           .h1-our-happy-customers{
+            width: 399px;
+            height: 48px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 31.25px;
+            line-height: 47px;
+            text-transform: uppercase;
+            color: #FFFFFF;
+            padding-top: 120px;
+           }
+
+           .text-our-happy-customers{
+            width: 601px;
+            height: 70px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: center;
+            color: #FFFFFF;
+            padding-top: 23px;
+           }
+          
+           .h1-our-happy-customers,
+           .text-our-happy-customers,
+           .conteiner-img-our-happy-customers,
+           .conteiner-ellipse-our-happy-customers,
+           .h1-our-recent-blog,
+           .text-our-recent-blog,
+           .text-our-recent-blog,
+           .text-the-snap,
+           .h2-the-snap,
+           .conteiner-contact-us-logo{
+            margin-left: auto;
+            margin-right: auto;
+           }
+
+           .conteiner-img-our-happy-customers{
+            width: 1171px;
+                        
+           }
+
+           .img-our-happy-customers{
+            max-width: 1171px;
+            object-fit: none;
+           }
+
+           .conteiner-ellipse-our-happy-customers{
+            width: 154px;
+            padding-bottom: 118px;
+           }
+
+           .section-our-recent-blog{
+            background: #F5F5F5;
+           }
+
+           .h1-our-recent-blog{
+            width: 312px;
+            height: 48px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 31.25px;
+            line-height: 47px;
+            text-transform: uppercase;
+            color: #232233;
+            padding-top: 120px;
+           }
+
+           .text-our-recent-blog{
+           padding-top: 23px;
+           }
+
+           .flex-our-recent-blog{
+            display: flex;
+            flex-wrap: nowrap;
+            justify-content: center;
+            gap: 30px;
+            padding-top: 60px;
+            padding-bottom: 120px;
+           }
+
+           .flex-the-snap{
+            width: 370px;
+            height: 500px;
+            background: #FFFFFF;
+            box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            margin-bottom: 120px;
+           }
+
+           .conteiner-img-the-snap{
+            width: 370px;
+            height: 228px;
+           }
+
+           .img-the-snap{
+            max-width: 370px;
+            object-fit: none;
+            filter: drop-shadow(0px 1px 10px rgba(0, 0, 0, 0.1));
+            border-radius: 10px 10px 0px 0px;
+            margin-top: -2px;
+           }
+
+           .h2-the-snap{
+            width: 334px;
+            height: 60px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 20px;
+            line-height: 30px;
+            text-transform: uppercase;
+            color: #232233;
+            padding-top: 40px;
+            
+           }
+
+           .text-the-snap{
+            width: 334px;
+            height: 72px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #6C6C72;
+            padding-top: 10px;
+           }
+
+           .read-the-snap{
+            width: 125px;
+            height: 26px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 20px;
+            line-height: 130%;
+            text-decoration-line: underline;
+            text-transform: uppercase;
+            color: #5851EA;
+            padding-left: 18px;
+            padding-top: 28px;
+            cursor: pointer;
+           }
+
+           .section-logo{
+            background: #232233;
+           }
+
+           .conteiner-contact-us-logo{
+            width: 1170px;
+            
+           }
+
+           .contact-us-logo{
+            max-width: 1170px;
+            object-fit: none;
+            margin-top: -183px;
+           }
+
+           .flex-contact-us-logo{
+            display: flex;
+            flex-wrap: nowrap;
+            justify-content: center;
+            padding-top: 133px;
+           }
+
+           .flex-logo,
+           .flex-quick-link,
+           .flex-news-letter{
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: column;
+           }
+
+
+            .flex-logo{
+            width: 334px;
+            }
+
+           .h1-logo{
+            width: 97px;
+            height: 48px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 31.25px;
+            line-height: 47px;
+            text-transform: uppercase;
+            color: #FFFFFF;
+           }
+
+           .text-logo{
+            width: 334px;
+            height: 72px;
+           }
+
+            .text-logo,
+            .text-news-letter{
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #FFFFFF;
+            padding-top: 1px;
+           }
+
+           .conteiner-social-logo{
+            width: 276px;
+            height: 24px;
+            padding-top: 38px;
+           }
+
+           .flex-quick-link{
+            width: 154px;
+            padding-left: 66px;
+
+           }
+
+           .h1-quick-link{
+            width: 154px;
+            height: 38px;
+           }
+
+           .h1-quick-link,
+           .h1-news-letter{
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 25px;
+            line-height: 38px;
+            text-transform: uppercase;
+            color: #FFFFFF;
+           }
+
+           .about-quick-link{
+            width: 44px;
+            padding-top: 11px;
+           }
+
+           .features-quick-link{
+            width: 62px;
+            
+           }
+
+           .screenshot-quick-link{
+            width: 78px;
+           }
+
+           .blog-quick-link{
+            width: 33px;
+           }
+
+           
+           .about-quick-link,
+           .features-quick-link,
+           .screenshot-quick-link,
+           .blog-quick-link{
+            height: 24px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #FFFFFF;
+           }
+           
+           .features-quick-link,
+           .screenshot-quick-link,
+           .blog-quick-link{
+            padding-top: 12px;
+           }
+           
+           .flex-news-letter{
+            width: 369px;
+            padding-left: 246px;
+           }
+
+           .h1-news-letter{
+            width: 181px;
+            height: 38px;
+           }
+
+           .text-news-letter{
+            width: 298px;
+            height: 48px;
+            padding-top: 11px;
+           }
+
+           .news-letter-email-address{
+            width: 369px;
+            height: 50px;
+            
+           }
+
+           .conteiner-news-letter-email-address{
+            padding-top: 33px;
+            
+           }
+
+           ::placeholder{
+            width: 138px;
+            height: 24px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #6C6C72;
+           }
+
+           .email-box-news-letter{
+            background-image: url(./images/email-box.png);
+            width: 52px;
+            height: 46px;
+            background: #5956E9;
+            border-radius: 4px;
+           }
+
+           .email-box-accept-news-letter{
+            background-image: url(./images/email-box-accept.png);
+            width: 19.46px;
+            height: 21.31px;
+            margin: auto;
+            padding-top: 12.35px;
+            background-repeat: no-repeat;
+
+            
+           }
+
+           .line-lofo{
+            width: 1167px;
+            border: 1px solid #FFFFFF;
+            margin-top: 68px;
+           }
+
+           .flex-copyright-line-logo{
+            display: flex;
+            flex-wrap: nowrap;
+            justify-content: center;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            gap: 20px;
+
+           }
+
+           .copyright-line-logo{
+            background-image: url(./images/copyright-line-logo.png);
+            width: 20px;
+            height: 20px;
+           
+           }
+
+           .text-copyright-line-logo{
+            width: 336px;
+            height: 24px;
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #FFFFFF;
+            
+
+           }
